@@ -31,3 +31,4 @@ No make file, but visual solution file.
 the firmware need the arduino accellstepper library 
 https://github.com/adafruit/AccelStepper
 
+Build instructions are at http://www.instructables.com/id/Sardauscan-sub-30-Opensource-3d-laser-scanner/
